@@ -2,7 +2,7 @@
   "name"          : "dustjs-q",
   "version"       : "0.1.0",
   "description"   : "Asynchronous, promise supporting templates for the browser and node.js",
-  "dependencies"  : { "q": ">=0.9.7" },
+  "dependencies"  : { "q": "1.0.1" },
   "author"        : "Aleksander Williams",
   "contributors"  : [],
   "url"           : "http://akdubya.github.com/dustjs/",
